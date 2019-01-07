@@ -1,2 +1,2 @@
-# sivakumars.github.io-rentmanager
+# sivakumars.github.io
 Rent management
